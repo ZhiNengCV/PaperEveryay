@@ -81,6 +81,9 @@
 5. **ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection**  [NeurIPS2025]
    [速读](https://mp.weixin.qq.com/s/V2SEd8F4gta0tz440v66yw) · [原文](https://arxiv.org/pdf/2510.15783) · [代码](https://github.com/haoweiz23/ReCon)
 
+6. **Real-Time Object Detection Meets DINOv3**  [NeurIPS2025]
+   [速读](https://mp.weixin.qq.com/s/dFbmIshdTliYNxP8VgAK7A) · [原文](https://arxiv.org/pdf/2509.20787) · [代码](https://github.com/Intellindust-AI-Lab/DEIMv2)
+
 ---
 
 ## 图像分割（Image Segmentation）
