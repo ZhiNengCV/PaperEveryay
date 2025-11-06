@@ -107,8 +107,6 @@
 1. **Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**  
    [速读](https://mp.weixin.qq.com/s/fBjShCYyMKnIk9USFXLbdw) · [原文](https://arxiv.org/abs/2501.01114)
 
-> （此前已收录的条目可参考历史版本；如需统一迁移至“医学影像”分类可进一步调整。）
-
 ---
 
 ## 图像取证与鉴伪（Image Forensics & Deepfake Detection）
