@@ -16,7 +16,7 @@
 - 图像取证与鉴伪（Image Forensics & Deepfake Detection）  
 - 医学影像（Medical Imaging）  
 
-> 注：分类可按需要继续扩充；条目默认“最新 → 较旧”。
+> 注：分类可按需要继续扩充。
 
 ---
 
@@ -75,6 +75,12 @@
 3. **NAGL: Neural Adaptive Graph Learning for Object Detection**  [NeurIPS2025]
    [速读](https://mp.weixin.qq.com/s/vehe_PiRDIEPAxCaqRI--Q) · [原文](https://arxiv.org/pdf/2510.00495) · [代码](https://github.com/JasonKyng/NAGL)
 
+4. **FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**  [ICCV2025]
+   [速读](https://mp.weixin.qq.com/s/z-X5xpktNJ1p8HkKgFVv1A) · [原文](https://arxiv.org/pdf/2510.15385)
+
+5. **ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection**  [NeurIPS2025]
+   [速读](https://mp.weixin.qq.com/s/V2SEd8F4gta0tz440v66yw) · [原文](https://arxiv.org/pdf/2510.15783) · [代码](https://github.com/haoweiz23/ReCon)
+
 ---
 
 ## 图像分割（Image Segmentation）
@@ -87,6 +93,9 @@
 
 3. **UMamba2: Unified Mamba Transformer for Multi-level Semantic Segmentation**  [MICCAI2025]
    [速读](https://mp.weixin.qq.com/s/hLMIOTd3kuEKqswBl--uOA) · [原文](https://arxiv.org/pdf/2509.20154) · [代码](https://github.com/zhiqin1998/UMamba2)
+
+4. **Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation**  [ICCV2025]
+   [速读](https://mp.weixin.qq.com/s/ans4GxvbeL2clKoqI5Gy_Q) · [原文](https://arxiv.org/pdf/2508.08612)
 
 ---
 
