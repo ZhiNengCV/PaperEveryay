@@ -31,6 +31,8 @@
 3. **VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models**  [CVPR2025]
    [速读](https://mp.weixin.qq.com/s/0AKmYLCpcLAsAaf4Up3Jig) · [原文](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_VidHalluc_Evaluating_Temporal_Hallucinations_in_Multimodal_Large_Language_Models_for_CVPR_2025_paper.pdf) · [主页](https://people-robots.github.io/vidhalluc/)
 
+4. **Decoupled Multi-Predictor Optimization for Inference-Efficient Model Tuning**  [NeurIPS2025]
+   [速读]() · [原文](https://arxiv.org/pdf/2511.03245) · [项目主页](https://github.com/TJU-sjyj/DMPO)
 ---
 
 ## 三维生成与场景（3D Generation & Graphics）
@@ -101,6 +103,9 @@
 
 4. **Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition**  [NeurIPS2025]
    [速读](https://mp.weixin.qq.com/s/UNtzXzcnVCQvor5O-j1mhQ) · [原文](https://arxiv.org/pdf/2511.03725) · [代码](https://jong980812.github.io/DANCE/)
+
+5. **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection**  [NeurIPS2025]
+   [速读]() · [原文](https://arxiv.org/pdf/2511.03666)  
 
 ---
 
