@@ -173,10 +173,6 @@
 
 ---
 
-## 分类扩展建议  
-- 可继续新增：**运动分析 & 行为识别（Motion Analysis & Action Recognition）**、**视频理解 & 事件检测（Video Understanding & Event Detection）**、**强化学习 & 机器人视觉（Reinforcement Learning & Robot Vision）** 等。  
-- 每个分类下保持编号、有序列表形式。
-
 ---
 
 ## 许可 & 免责声明  
