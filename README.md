@@ -84,7 +84,12 @@
 6. **Real-Time Object Detection Meets DINOv3**  [NeurIPS2025]
    [速读](https://mp.weixin.qq.com/s/dFbmIshdTliYNxP8VgAK7A) · [原文](https://arxiv.org/pdf/2509.20787) · [代码](https://github.com/Intellindust-AI-Lab/DEIMv2)
 
+7. **Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning**  [CVPR2025]
+   [速读](https://mp.weixin.qq.com/s/Xb2Z4ksuvi_0WFeBbAc7MA) · [原文](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Visual_and_Semantic_Prompt_Collaboration_for_Generalized_Zero-Shot_Learning_CVPR_2025_paper.pdf)
+
 ---
+
+
 
 ## 图像分割（Image Segmentation）
 
@@ -99,6 +104,9 @@
 
 4. **Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation**  [ICCV2025]
    [速读](https://mp.weixin.qq.com/s/ans4GxvbeL2clKoqI5Gy_Q) · [原文](https://arxiv.org/pdf/2508.08612)
+
+5. **OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation**  [NeurIPS2025]
+   [速读](https://mp.weixin.qq.com/s/TKPoqYVhqoxYmSUo2kcFNQ) · [原文](https://arxiv.org/pdf/2509.15096) · [代码](https://github.com/VCIP-RGBD/DFormer)
 
 ---
 
@@ -134,6 +142,9 @@
 
 4. **Real-IAD D³: A Real-World 2D-Pseudo-3D Dataset for Industrial Anomaly Detection**  [CVPR2025]
    [速读](https://mp.weixin.qq.com/s/cvmn9RlVu7hfcjNhIzVDGg) · [原文](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Real-IAD_D3_A_Real-World_2DPseudo-3D3D_Dataset_for_Industrial_Anomaly_Detection_CVPR_2025_paper.pdf) · [主页](https://realiad4ad.github.io/Real-IAD/)
+
+5. **CWNet: Causal Wavelet Network for Low-Light Image Enhancement**  [ICCV2025]
+   [速读](https://mp.weixin.qq.com/s/OZHUWn7WMeZwMRiVLZ-reA) · [原文](https://arxiv.org/pdf/2507.10689) · [代码](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
 
 ---
 
