@@ -99,6 +99,9 @@
 3. **Dynamic Group Detection using VLM-augmented Temporal Groupness Graph**  [ICCV2025]
    [速读](https://mp.weixin.qq.com/s/mIdYH3AHN8FIXryu7wt5HQ) · [原文](https://arxiv.org/pdf/2509.04758)
 
+4. **Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition**  [NeurIPS2025]
+   [速读](https://mp.weixin.qq.com/s/UNtzXzcnVCQvor5O-j1mhQ) · [原文](https://arxiv.org/pdf/2511.03725) · [代码](https://jong980812.github.io/DANCE/)
+
 ---
 
 ## 数据集与数据增广（Datasets & Data Augmentation）
