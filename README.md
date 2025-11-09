@@ -147,7 +147,7 @@
    [速读](https://mp.weixin.qq.com/s/OZHUWn7WMeZwMRiVLZ-reA) · [原文](https://arxiv.org/pdf/2507.10689) · [代码](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
 
 6. **PixCLIP: Achieving Fine-grained Visual Language Understanding via Any-granularity Pixel-Text Alignment Learning**
-   [速读]() · [原文](https://arxiv.org/pdf/2511.04601) · [代码](https://github.com/StuHude/PixCLIP/)
+   [速读](https://mp.weixin.qq.com/s/kpZlU8PMTF_MmmDeciS8yg) · [原文](https://arxiv.org/pdf/2511.04601) · [代码](https://github.com/StuHude/PixCLIP/)
 
 ---
 
