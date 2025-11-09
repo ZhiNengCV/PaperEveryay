@@ -14,7 +14,8 @@
 - 数据集与数据增广（Datasets & Data Augmentation）  
 - 图像恢复与增强（Image Restoration & Enhancement）  
 - 图像取证与鉴伪（Image Forensics & Deepfake Detection）  
-- 医学影像（Medical Imaging）  
+- 医学影像（Medical Imaging）
+- 机器人（Robot）  
 
 > 注：分类可按需要继续扩充。
 
@@ -198,6 +199,11 @@
    [速读](https://mp.weixin.qq.com/s/SqUtEB5oZwDo9EO1dWwpfg) · [原文](https://arxiv.org/pdf/2509.26008)
 
 ---
+
+## 机器人（Robot）
+
+1. **X-DIFFUSION: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**  
+   [速读](https://mp.weixin.qq.com/s/Ft4bXB95KF3JGvjOywNISA) · [原文](https://arxiv.org/pdf/2511.04671) · [主页](https://portal-cornell.github.io/X-Diffusion/)
 
 ## 贡献说明  
 - 若你发现新的优质论文，欢迎 Pull Request。  
