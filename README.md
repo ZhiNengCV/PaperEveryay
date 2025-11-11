@@ -35,9 +35,11 @@
 4. **Decoupled Multi-Predictor Optimization for Inference-Efficient Model Tuning**  [NeurIPS2025]
    [速读](https://mp.weixin.qq.com/s/m6vozeidpGbLE5JefEfdxA) · [原文](https://arxiv.org/pdf/2511.03245) · [项目主页](https://github.com/TJU-sjyj/DMPO)
 
-
 5. **V-Thinker: Interactive Thinking with Images** 
    [速读](https://mp.weixin.qq.com/s/4En5K020OQiLaisY_9uN2A) · [原文](https://arxiv.org/pdf/2511.04460) · [代码](https://github.com/We-Math/V-Thinker)
+
+6. **Long Grounded Thoughts: Distilling Compositional Visual Reasoning Chains at Scale** 
+   [速读]() · [原文](https://arxiv.org/pdf/2511.05705) · [项目主页](https://nvlabs.github.io/LongGroundedThoughts/)
 ---
 
 ## 三维生成与场景（3D Generation & Graphics）
