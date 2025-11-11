@@ -130,7 +130,10 @@
    [速读](https://mp.weixin.qq.com/s/UNtzXzcnVCQvor5O-j1mhQ) · [原文](https://arxiv.org/pdf/2511.03725) · [代码](https://jong980812.github.io/DANCE/)
 
 5. **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection**  [NeurIPS2025]
-   [速读](https://mp.weixin.qq.com/s/Suxde76thN_r7zisgXL0ew) · [原文](https://arxiv.org/pdf/2511.03666)  
+   [速读](https://mp.weixin.qq.com/s/Suxde76thN_r7zisgXL0ew) · [原文](https://arxiv.org/pdf/2511.03666)
+
+6. **Pose-Aware Multi-Level Motion Parsing for Action Quality Assessment**  
+   [速读](https://mp.weixin.qq.com/s/KnrJ54z2QGvyuCOmavhajQ) · [原文](https://arxiv.org/pdf/2511.05611)
 
 ---
 
