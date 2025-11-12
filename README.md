@@ -42,7 +42,8 @@
    [速读](https://nvlabs.github.io/LongGroundedThoughts/) · [原文](https://arxiv.org/pdf/2511.05705) · [项目主页](https://nvlabs.github.io/LongGroundedThoughts/)
 
 7. **DeepEyesV2: Toward Agentic Multimodal Model** 
-   [速读]() · [原文](https://arxiv.org/pdf/2511.05271) · [项目主页](https://visual-agent.github.io/)
+   [速读](https://mp.weixin.qq.com/s/o5JvwqooFm2ErHmK3KRIxA) · [原文](https://arxiv.org/pdf/2511.05271) · [项目主页](https://visual-agent.github.io/)
+   
 ---
 
 ## 三维生成与场景（3D Generation & Graphics）
