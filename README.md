@@ -76,7 +76,7 @@
 
 ---
 
-## 目标检测（Object Detection）
+## 检测（Detection）
 
 1. **RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models**  
    [速读](https://mp.weixin.qq.com/s/CPC4XzFwXni89IS2sHhCfw) · [原文](https://arxiv.org/pdf/2510.25257)
@@ -98,6 +98,9 @@
 
 7. **Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning**  [CVPR2025]
    [速读](https://mp.weixin.qq.com/s/Xb2Z4ksuvi_0WFeBbAc7MA) · [原文](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Visual_and_Semantic_Prompt_Collaboration_for_Generalized_Zero-Shot_Learning_CVPR_2025_paper.pdf)
+
+8. **MUSE: Multi-Scale Dense Self-Distillation for Nucleus Detection and Classification** 
+   [速读]() · [原文](https://arxiv.org/pdf/2511.05170) 
 
 ---
 
