@@ -42,7 +42,7 @@
    [速读](https://nvlabs.github.io/LongGroundedThoughts/) · [原文](https://arxiv.org/pdf/2511.05705) · [项目主页](https://nvlabs.github.io/LongGroundedThoughts/)
 
 7. **DeepEyesV2: Toward Agentic Multimodal Model** 
-   [速读](https://mp.weixin.qq.com/s/o5JvwqooFm2ErHmK3KRIxA) · [原文](https://arxiv.org/pdf/2511.05271) · [项目主页](https://visual-agent.github.io/)
+   [速读](https://mp.weixin.qq.com/s/l6WiOTACEusoFHIckmRppw) · [原文](https://arxiv.org/pdf/2511.05271) · [项目主页](https://visual-agent.github.io/)
    
 ---
 
@@ -100,7 +100,7 @@
    [速读](https://mp.weixin.qq.com/s/Xb2Z4ksuvi_0WFeBbAc7MA) · [原文](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Visual_and_Semantic_Prompt_Collaboration_for_Generalized_Zero-Shot_Learning_CVPR_2025_paper.pdf)
 
 8. **MUSE: Multi-Scale Dense Self-Distillation for Nucleus Detection and Classification** 
-   [速读]() · [原文](https://arxiv.org/pdf/2511.05170) 
+   [速读](https://mp.weixin.qq.com/s/V9ON54fT7NE8MY9rPHzHFQ) · [原文](https://arxiv.org/pdf/2511.05170) 
 
 ---
 
