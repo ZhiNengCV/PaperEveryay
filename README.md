@@ -228,7 +228,10 @@
    [速读](https://mp.weixin.qq.com/s/Ft4bXB95KF3JGvjOywNISA) · [原文](https://arxiv.org/pdf/2511.04671) · [主页](https://portal-cornell.github.io/X-Diffusion/)
 
 2. **Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures**  
-   [速读](https://mp.weixin.qq.com/s/buXiINtSEDfC4l4dARkP6A) · [原文](https://arxiv.org/pdf/2511.03882) 
+   [速读](https://mp.weixin.qq.com/s/buXiINtSEDfC4l4dARkP6A) · [原文](https://arxiv.org/pdf/2511.03882)
+
+3. **SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation** [AAAI2026]
+   [速读]() · [原文](https://arxiv.org/pdf/2511.10518)· [代码](https://github.com/JiuTian-VL/SemanticVLA)
 
 ## 贡献说明  
 - 若你发现新的优质论文，欢迎 Pull Request。  
