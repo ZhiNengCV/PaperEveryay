@@ -103,7 +103,7 @@
    [速读](https://mp.weixin.qq.com/s/V9ON54fT7NE8MY9rPHzHFQ) · [原文](https://arxiv.org/pdf/2511.05170)
 
 9. **Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection** [AAAI2026]
-   [速读]() · [原文](https://arxiv.org/pdf/2511.09352) · [代码](https://github.com/IVPLaboratory/TDCNet)
+   [速读](https://mp.weixin.qq.com/s/H8p3zC2NrHRWYopW8SdKXA) · [原文](https://arxiv.org/pdf/2511.09352) · [代码](https://github.com/IVPLaboratory/TDCNet)
 
 ---
 
@@ -127,7 +127,7 @@
    [速读](https://mp.weixin.qq.com/s/TKPoqYVhqoxYmSUo2kcFNQ) · [原文](https://arxiv.org/pdf/2509.15096) · [代码](https://github.com/VCIP-RGBD/DFormer)
 
 6. **DualFete: Revisiting Teacher-Student Interactions from a Feedback Perspective for Semi-supervised Medical Image Segmentatio**  [AAAI2026]
-   [速读]() · [原文](https://arxiv.org/pdf/2511.09319) · [代码](https://github.com/lyricsyee/dualfete) 
+   [速读](https://mp.weixin.qq.com/s/IdfAnoZbxDUkxDUwLiqxww) · [原文](https://arxiv.org/pdf/2511.09319) · [代码](https://github.com/lyricsyee/dualfete) 
 ---
 
 ## 视频理解与行为（Video Understanding & Actions）
