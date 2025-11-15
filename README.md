@@ -105,11 +105,14 @@
 9. **Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection** [AAAI2026]
    [速读](https://mp.weixin.qq.com/s/H8p3zC2NrHRWYopW8SdKXA) · [原文](https://arxiv.org/pdf/2511.09352) · [代码](https://github.com/IVPLaboratory/TDCNet)
 
+10. **Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment** [AAAI2026]
+   [速读](https://mp.weixin.qq.com/s/RAqbNj0qi_0aRReVmzQOrw) · [原文](https://arxiv.org/pdf/2511.10334) · [代码](https://github.com/lessiYin/DSANet)
+
 ---
 
 
 
-## 图像分割（Image Segmentation）
+## 分割（Segmentation）
 
 1. **Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts**  [ICCV2025]
    [速读](https://mp.weixin.qq.com/s/aicqonBL5LZYNr2xd3gmDQ) · [原文](https://arxiv.org/pdf/2510.21114)
@@ -231,7 +234,7 @@
    [速读](https://mp.weixin.qq.com/s/buXiINtSEDfC4l4dARkP6A) · [原文](https://arxiv.org/pdf/2511.03882)
 
 3. **SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation** [AAAI2026]
-   [速读]() · [原文](https://arxiv.org/pdf/2511.10518)· [代码](https://github.com/JiuTian-VL/SemanticVLA)
+   [速读](https://mp.weixin.qq.com/s/iP8XWaa7NaTe2pa2-ky-qg) · [原文](https://arxiv.org/pdf/2511.10518)· [代码](https://github.com/JiuTian-VL/SemanticVLA)
 
 ## 贡献说明  
 - 若你发现新的优质论文，欢迎 Pull Request。  
